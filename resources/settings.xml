@@ -1,0 +1,16 @@
+<settings>
+   <setting id="useThumbAsFanart" type="bool" label="30101" default="true"/>
+   <setting id="forceView" type="bool" label="30102" default="true"/>
+   <setting id="viewIDVideos" type="number" label="30103" default="51"/>
+   <setting type="sep"/>
+   <setting id="youtubeUser01" type="text" label="30111" default=""/>
+   <setting id="youtubeUser02" type="text" label="30112" default=""/>
+   <setting id="youtubeUser03" type="text" label="30113" default=""/>
+   <setting id="youtubeUser04" type="text" label="30114" default=""/>
+   <setting id="youtubeUser05" type="text" label="30115" default=""/>
+   <setting id="youtubeUser06" type="text" label="30116" default=""/>
+   <setting id="youtubeUser07" type="text" label="30117" default=""/>
+   <setting id="youtubeUser08" type="text" label="30118" default=""/>
+   <setting id="youtubeUser09" type="text" label="30119" default=""/>
+   <setting id="youtubeUser10" type="text" label="30120" default=""/>                    \   
+</settings>

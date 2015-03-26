@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">Next Page</string>
+  <string id="30002">Latest Videos</string>
+  <string id="30003">All Shows</string>
+  <string id="30004">Favourites</string>
+  <string id="30005">Add to queue</string>
+  <string id="30006">Add to addon favourites</string>
+  <string id="30007">Remove from favourites</string>
+  <string id="30101">Use thumb as fanart</string>
+  <string id="30102">Force View</string>
+  <string id="30103">ViewID</string>
+  <string id="30104">Subtitles</string>
+  <string id="30105">Country</string>
+  <string id="30111">Youtube User 01</string>
+  <string id="30112">Youtube User 02</string>
+  <string id="30113">Youtube User 03</string>
+  <string id="30114">Youtube User 04</string>
+  <string id="30115">Youtube User 05</string>
+  <string id="30116">Youtube User 06</string>
+  <string id="30117">Youtube User 07</string>
+  <string id="30118">Youtube User 08</string>
+  <string id="30119">Youtube User 09</string>
+  <string id="30120">Youtube User 10</string>
+</strings>
