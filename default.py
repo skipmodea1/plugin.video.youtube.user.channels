@@ -176,7 +176,12 @@ def playVideo(url):
 def cleanName(name):
     name = name.strip()
     name = name.capitalize()
-    name = name.encode('utf-8')
+    
+    try:
+        name = name.encode('utf-8')
+    except:
+        pass
+    
     name = name.replace("&lt;", "<")
     name = name.replace("&gt;", ">")
     name = name.replace("&amp;", "&")

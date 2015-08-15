@@ -1,3 +1,4 @@
 v1.0.0 (Skipmode A1):
 - initial version 
-- there is already a youtube addon, so this is just for personal use.
+- there is already a youtube addon, so this is just for personal use
+- added some utf-8 stuff
